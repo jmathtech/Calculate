@@ -15,7 +15,7 @@ namespace Calculate
 
             int num1; // declares the first number 
             int num2; // declares the second number
-            int sum;
+            int sum; // declares the sum of both variables
 
             // Prompt the user to enter the first number
             Console.Write("Please enter the first number: ");
